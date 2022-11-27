@@ -25,15 +25,15 @@ async function mapImageList(){
         },
         {
             "name": "nazaré confusa",
-            "path": "images/nazare_confusa.jpg"
+            "path": "images/nazare-confusa.jpg"
         },
         {
             "name": "nazaré fugindo",
-            "path": "images/nazare_fugindo.jpg"
+            "path": "images/nazare-fugindo.jpg"
         },
         {
             "name": "sorriso nervoso",
-            "path": "images/sorriso_nervoso.jpg"
+            "path": "images/sorriso-nervoso.jpg"
         }
     ]
     return memesObject;
